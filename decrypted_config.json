@@ -1,0 +1,15 @@
+{
+  "admins": [
+    {
+      "login": "Alice",
+      "password": "C00peR"
+    },
+    {
+      "login": "Bob",
+      "password": "uNc1e"
+    }
+  ],
+  "session_key": "1234567890abcde",
+  "IP": "42.42.42.42",
+  "port": 443
+}

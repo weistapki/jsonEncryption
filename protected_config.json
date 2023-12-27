@@ -1,0 +1,15 @@
+{
+  "admins": [
+    {
+      "login": "gAAAAABljAqF8vKGYSBQz4rd3e56gW0MD_0cqIjR6i0aEg57p8mJYKKr1_OyR6wltPXhk-LeHqg6I5lLAM9ssQqwomaZokG_zw==",
+      "password": "gAAAAABljAqFCXdW34617A0CUdgK3S2VI5cmjew7Z0YXV_RDiOenZoLgHWRZnbKO1WMABjA_R1cIqiZ4K-ChrT3Ubaw4Kocujw=="
+    },
+    {
+      "login": "gAAAAABljAqFLcetZThlcePnAAiIxAxIYu5X7eKYwnf2l3q3_L1UGmqOscyt8zloLTGkD7tyoKf1A0o2c-rv31uIUSoKekOx4A==",
+      "password": "gAAAAABljAqFTMWDmA9RN0D-w5BSKeN5Cnpv2K5Dxq6mVitivdLxJfJNtWhpt6sXNPIwqdKRkP9UhozXfhSH1eoG6E_6xLeRMw=="
+    }
+  ],
+  "session_key": "gAAAAABljAqFOifvo1pQOJZ9SXj4NNuaPsM3L3AGHcPROMpYZAVSB0iyvd27_Yqx5ENCV6q4mZr68HkcaJTBl0cHFxAUTe3zKg==",
+  "IP": "42.42.42.42",
+  "port": 443
+}
